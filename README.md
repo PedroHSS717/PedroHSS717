@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Me chamo Pedro Sampaio.
 
-<!--
-**PedroHSS717/PedroHSS717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👨🏼‍💻 Técnico em Informática
+- 📚 Sistemas de Informação
+- 💻 Suporte Técnico em Tecnologia da Informação - **Dell Technologies**
+- ☁️ AWS Academy Cloud Foundations - **Amazon Web Services**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <img align="center" alt="Badge-Aws" height="130" width="110" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
+    <img align="center" alt="Badge-Dell" height="130" width="190" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png">
+  </div>
+
